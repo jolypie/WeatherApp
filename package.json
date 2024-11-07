@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
 "scripts": {
-    "dev": "vite",              // development
-    "start": "vite preview",     // prodaction
+    "dev": "vite",             
+    "start": "vite preview",    
     "build": "vite build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
