@@ -4,10 +4,11 @@
   "version": "0.0.0",
   "type": "module",
 "scripts": {
-  "start": "npm start",
-  "build": "vite build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
+    "dev": "vite",              // development
+    "start": "vite preview",     // prodaction
+    "build": "vite build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
 },
   "dependencies": {
     "react": "^18.3.1",
